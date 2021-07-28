@@ -156,4 +156,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: '/egoSite',
 };
